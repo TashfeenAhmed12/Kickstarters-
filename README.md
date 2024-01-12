@@ -1,0 +1,2 @@
+# Description 
+This project showcases a classification model developed in Python to predict the outcome of projects at their launch. It involved comparing various models to identify the one with the best performance metrics. Additionally, the project features a clustering analysis to group similar projects, employing methods such as K-means and DBSCAN, with findings based on a comprehensive analysis of both numerical and categorical variables
