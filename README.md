@@ -3,4 +3,12 @@ This project showcases a classification model developed in Python to predict the
 
 # Data Dictionary
 The dataset from the Kickstarter comprises detailed records of crowdfunding projects, with variables to track project goals, pledged amounts, and outcomes. It includes both numerical and categorical data, such as project names, blurbs, and temporal information about project launch and deadline dates. Additionally, it contains calculated variables like goal amounts converted to USD and time-related features engineered from the original launch and creation timestamps
-# Data Preparation
+
+# Steps taken to build the models
+
+* Data Exploration
+* Data Preparation
+* Modelling
+* Model Evaluation
+* Model Selection
+* Model Fine-Tuning
